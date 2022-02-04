@@ -15,7 +15,7 @@
                               <div class="detail-box">
                                  <h1>
                                     <span>
-                                    Sale 20% Off
+                                    Sale 40% Off
                                     </span>
                                     <br>
                                     On Everything
@@ -40,7 +40,7 @@
                               <div class="detail-box">
                                  <h1>
                                     <span>
-                                    Sale 20% Off
+                                    Sale 70% Off
                                     </span>
                                     <br>
                                     On Everything
@@ -100,7 +100,7 @@
          <div class="container">
             <div class="heading_container heading_center">
                <h2>
-                  Why Shop With Us
+                  Why Shop With Us?
                </h2>
             </div>
             <div class="row">
@@ -310,7 +310,7 @@
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Free Shiping
+                           Free Shiping (No Delivery Charges)
                         </h5>
                         <p>
                            variations of passages of Lorem Ipsum available
