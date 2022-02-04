@@ -11,9 +11,9 @@ if(isset($_POST['btnRegister']))
     $result=mysqli_query($conn,$query);
     if($result)
     {
-        echo "<script>alert('Account Created Successfully');</script>";
+        echo "<script>alert('Successfull');</script>";
     }else{
-        echo "<script>alert('Account Not Created');</script>";
+        echo "<script>alert('Failed');</script>";
     }
 }
 
